@@ -1,0 +1,28 @@
+https://www.kaggle.com/arslanali4343/real-estate-dataset
+
+Under 1.5 per capita crime rate by town = Good(Red dots)
+Over 1.5 per capita crime rate by town = Bad(Blue dots)
+
+LSTAT: % lower status of the population
+DIS: weighted distances to five Boston employment centres
+etha(min step size) = 2/(i+1)**0.5
+accuracy parameter = 0.000001
+Reularizer Applied.
+
+<My Analysis of This Result _ I am sure this will wrong analysis......>
+*(I think "lower status of the population" is inappropriate. But I use this because the dataset uses these words.)
+*(The dataset is old but it seemed good enough for testing.)
+Distance to the workplace is about survival to the low-income population.
+And the towns of Boston seem to understand the circumstance and allow them to live close to their workplace.
+But, regardless of the distance to their workplace, the towns with a high percentage of lower status of the population suffer bad crime rates.
+I should say it is not the town that suffers crimes, but all people who live in the town suffer.
+Maybe the quality of the affordable housing matters.
+
+Dataset Title: Boston Housing Data
+Sources:
+(a) Origin: This dataset was taken from the StatLib library which is
+maintained at Carnegie Mellon University.
+(b) Creator: Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the
+demand for clean air', J. Environ. Economics & Management,
+vol.5, 81-102, 1978.
+(c) Date: July 7, 1993
