@@ -16,3 +16,7 @@ Linear Logistic Classification(LLC) and Stochastic Gradient Descent(SGD)
 ![image](https://user-images.githubusercontent.com/93954052/152826828-280e4d35-915a-4ddc-929f-a7dd011e516a.png)
 
 ![image](https://user-images.githubusercontent.com/93954052/153111818-43da18cc-0f44-4583-ab78-32ba4b8c6adb.png)
+
+![image](https://user-images.githubusercontent.com/93954052/153774958-35711636-a3f8-4822-a1ab-ee740be3d589.png)
+
+![image](https://user-images.githubusercontent.com/93954052/153774947-ebb5b2a9-7bda-431d-82b7-50f91a7d64b3.png)
