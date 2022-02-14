@@ -1,5 +1,5 @@
-# ML_LLCandSGD
-Linear Logistic Classification(LLC) and Stochastic Gradient Descent(SGD)
+# ML_LLC_GD_SGD
+Linear Logistic Classification(LLC), Gradient Descent, and Stochastic Gradient Descent(SGD)
 
 ![anigif](https://user-images.githubusercontent.com/93954052/153774556-4dec77b4-51ca-4462-a90c-a4641d0b3ed0.gif)
 ![aGDResult](https://user-images.githubusercontent.com/93954052/153774558-d23590b8-248f-4282-b678-e489c8ed0e22.png)
